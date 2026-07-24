@@ -22,15 +22,15 @@
 // Convert hours into minutes.
 // (Input: hours)
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main() {
-    float hours;
+// int main() {
+//     float hours;
 
-    printf("enter hours: ");
-    scanf("%f", &hours);
+//     printf("enter hours: ");
+//     scanf("%f", &hours);
 
-    printf("Minutes: %.2f", hours * 60);
+//     printf("Minutes: %.2f", hours * 60);
 
-    return 0;
-}
+//     return 0;
+// }

@@ -30,20 +30,20 @@
 // Total    : 1600
 
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main() {
-    char cust[20], prod[20];;
-    int qnt, price;
+// int main() {
+//     char cust[20], prod[20];;
+//     int qnt, price;
 
-    printf("Enter customer name & product: ");
-    scanf("%s %s", cust, prod);
+//     printf("Enter customer name & product: ");
+//     scanf("%s %s", cust, prod);
 
-    printf("Enter Quantity and price: ");
-    scanf("%d %d", &qnt, &price);
+//     printf("Enter Quantity and price: ");
+//     scanf("%d %d", &qnt, &price);
 
-    int total = qnt * price;
-    printf("=========================\n \tShopping Bill\n=========================");
-    printf("\n\nCustomer : %s\nProduct : %s\nQuantity : %d\nPrice : %d\n-------------------------\nTotal : %d", cust, prod, qnt, price, total);
-    return 0;
-}
+//     int total = qnt * price;
+//     printf("=========================\n \tShopping Bill\n=========================");
+//     printf("\n\nCustomer : %s\nProduct : %s\nQuantity : %d\nPrice : %d\n-------------------------\nTotal : %d", cust, prod, qnt, price, total);
+//     return 0;
+// }
